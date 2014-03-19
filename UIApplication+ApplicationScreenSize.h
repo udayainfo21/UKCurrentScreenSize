@@ -1,7 +1,6 @@
 //
 //  UIApplication+ApplicationScreenSize.h
-//  AutoLayoutSample
-//
+
 //  Created by iMac1 on 19/03/14.
 
 
