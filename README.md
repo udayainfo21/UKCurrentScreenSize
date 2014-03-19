@@ -1,7 +1,7 @@
 UKCurrentScreenSize
 ===================
 I wrote a Category on UIApplication. 
-Added class methods for getting the currentSize or the size in a given orientation of the UIViewController and reports back the correct responses in all orientations.
+Added class methods for getting the currentScreenSize or the size in a given orientation of the UIViewController and reports back the correct responses in all orientations.
 
 
 To use the code:
